@@ -1,0 +1,9 @@
+target/
+out/
+build/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+testresults.jtl
